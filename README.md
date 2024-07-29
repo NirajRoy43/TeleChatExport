@@ -13,7 +13,7 @@ pip install telethon
 ```
 
 # Necessary Variables
-Visit [HERE](my.telegram.org) to get your API_ID and API_HASH.
+Visit [HERE](https://my.telegram.org) to get your API_ID and API_HASH.
 
 # Download the Scripts
 Download Login.py and main.py files from this repository . Save them to a directory on your device.
