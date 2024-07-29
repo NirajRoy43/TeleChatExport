@@ -8,11 +8,11 @@
    pip install telethon
    ```
  
- 3.Fork this Repository 
+  3.Fork this Repository 
 
-4. To get API_ID & API_HASH , visit my.telegram.org and login.
+4.Get your API_ID & API_HASH from https://my.telegram.org
 
-5. click on api development tools
+5. 
 
 6. Click on Login.py and then choose open with Termux --> open directory
 
