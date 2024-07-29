@@ -13,7 +13,7 @@ pip install telethon
 ```
 
 # Necessary Variables
-Visit my.telegram.org to get your API_ID and API_HASH.
+Visit [HERE](my.telegram.org) to get your API_ID and API_HASH.
 
 # Download the Scripts
 Download Login.py and main.py files from this repository . Save them to a directory on your device.
@@ -39,19 +39,22 @@ python Login.py
 ```
 
 # LOGIN
-Enter your API_ID and API_HASH when prompted to log in.
+Enter your API_ID and API_HASH when prompted to log in. 
+* Enter phone number with +91 country code for 🇮🇳
 
 # Run the Main Script
-After logging in, run the main script by executing:
+After logging in, run the main script and enter details again
 ```bash
 python main.py
 ```
 
 # Export Chats
-Open any Telegram chat and type the !save command. The chat will be exported to a .txt file and sent to your Saved Messages.
+Open any Telegram chat and type the `/save` command. The chat will be exported to a .txt file and sent to your Saved Messages.
 
 <hr>
 
 🌟 Star & Fork this Repository if it was helpful;
+
+⚠️ After Exporting chats, Go to settings --> Devices --> Terminate all other sessions, for safety purposes !
 
 💌 If you Face any Error Feel free to [contact me](https://t.me/NemesisRoy)
