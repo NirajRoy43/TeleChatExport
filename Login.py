@@ -1,12 +1,13 @@
-# Login krne ke liye
+
 from telethon import TelegramClient
 import logging
+import os
 
 logging.basicConfig(level=logging.INFO)
 
-# apna value dalo bhai
-api_id = 'API_ID'
-api_hash = 'API_HASH'
+
+api_id = os.getenv('API_ID')
+api_hash = os.getenv('API_HASH')
 
 client = TelegramClient('user_session', api_id, api_hash)
 
