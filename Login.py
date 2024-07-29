@@ -6,8 +6,11 @@ import os
 logging.basicConfig(level=logging.INFO)
 
 
-api_id = os.getenv('API_ID')
-api_hash = os.getenv('API_HASH')
+api_id = input("Enter your API_ID: ")
+api_hash = input("Enter your API_HASH: ")
+
+if not api_id or not api_hash:
+    raise ValueError("API_ID and API_HASH must be provided")
 
 client = TelegramClient('user_session', api_id, api_hash)
 
