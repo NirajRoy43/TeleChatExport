@@ -7,13 +7,18 @@
    pkg install python
    pip install telethon
    ```
-3.Download the Login.py and main.py file
+ 
+ 3.Fork this Repository 
 
-4. Navigate to the folder / Directory where files are saved in your device
+4. To get API_ID & API_HASH , visit my.telegram.org and login.
 
-5. Click on Login.py and then choose open with Termux --> open directory
+5. click on api development tools
 
-6. now in termux type this code :
+6. Click on Login.py and then choose open with Termux --> open directory
+
+7.  Navigate to Login.py file and enter your API_ID & API_HASH and commmit changes 
+
+9. now in termux type this code :
    ```bash
    python Login.py
    ```
