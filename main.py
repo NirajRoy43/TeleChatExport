@@ -5,8 +5,6 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-api_id = 'API_ID'
-api_hash = 'API_HASH'
 
 # login script wala same session use karenge
 client = TelegramClient('user_session', api_id, api_hash)
