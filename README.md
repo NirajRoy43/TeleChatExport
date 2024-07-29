@@ -57,4 +57,4 @@ Open any Telegram chat and type the `/save` command. The chat will be exported t
 
 ⚠️ After Exporting chats, Go to settings --> Devices --> Terminate all other sessions, for safety purposes !
 
-💌 If you Face any Error Feel free to [contact me](https://t.me/NemesisRoy)
+💌 If you Face any Error Feel free to [🔔Ping Me](https://t.me/NemesisRoy)
