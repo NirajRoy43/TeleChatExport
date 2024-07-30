@@ -1,3 +1,12 @@
+"""
+© 2024 Niraj Roy. All rights reserved.
+
+This file is part of the TeleChatExport project.
+
+Licensed under the MIT License. See LICENSE file in the project root for full license information.
+"""
+
+
 # main file
 from telethon import TelegramClient, events, sync
 from telethon.tl.functions.messages import GetHistoryRequest, DeleteMessagesRequest
